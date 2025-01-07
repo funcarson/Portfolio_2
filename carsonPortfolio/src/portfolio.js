@@ -223,16 +223,8 @@ const achievementSection = {
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
-          name: "",
-          url: ""
-        },
-        {
           name: "Certification",
           url: "https://drive.google.com/file/d/1-9P-Ex25mGcwxm93SYvYNE74L-Tibm4A/view?usp=sharing"
-        },
-        {
-          name: "",
-          url: ""
         }
       ]
     }
