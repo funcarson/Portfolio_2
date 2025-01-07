@@ -34,7 +34,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/funcarson",
-  linkedin: "https://www.linkedin.com/in/carson-king/",
+  linkedin: "https://www.linkedin.com/in/carson-king-676563269/",
   gmail: "carsonwork1246@gmail.com",
   gitlab: "N/A",
   facebook: "N/A",
