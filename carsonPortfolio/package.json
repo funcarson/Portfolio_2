@@ -1,6 +1,6 @@
 {
-  "homepage": "https://funcarson.github.io/developerFolio",
-  "name": "developerfolio",
+  "homepage": "https://funcarson.netlify.app",
+  "name": "funcarson",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
