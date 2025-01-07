@@ -93,8 +93,12 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-python"
     },
     {
+      skillName: "C, C++, C#",
+      fontAwesomeClassname: "fab fa-python"
+    },
+    {
       skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
+      fontAwesomeClassname: "fas fa-c"
     }
   ],
   display: true // Set false to hide this section, defaults to true
