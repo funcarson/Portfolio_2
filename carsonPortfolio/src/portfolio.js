@@ -36,10 +36,6 @@ const socialMediaLinks = {
   github: "https://github.com/funcarson",
   linkedin: "https://www.linkedin.com/in/carson-king-676563269/",
   gmail: "carsonwork1246@gmail.com",
-  gitlab: "N/A",
-  facebook: "N/A",
-  medium: "N/A",
-  stackoverflow: "N/A",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
