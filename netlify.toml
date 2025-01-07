@@ -1,4 +1,4 @@
 [build]
-  base    = "developerFolio"
+  base    = "carsonPortfolio"
   command = "npm run build"
   publish = "build"
