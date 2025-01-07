@@ -94,7 +94,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "C, C++, C#",
-      fontAwesomeClassname: "fa-solid fa-c"
+      fontAwesomeClassname: "fa-solid fa-code"
     },
     {
       skillName: "docker",
