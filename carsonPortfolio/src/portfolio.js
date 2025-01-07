@@ -23,7 +23,7 @@ const greeting = {
   username: "Carson King",
   title: "Hi all, I'm Carson",
   subTitle: emoji(
-    "A passionate Computer Science Grad looking to get into Software Development 🚀 having an experience of building PC applications with Java / C / C++ / Python /  VS studio and code / intellij / and some other IDES and languages."
+    "A passionate Computer Science graduate aiming to break into Software Development. I have experience building applications in Java, C, C++, Python, and more, using various IDEs such as Visual Studio, VS Code, and IntelliJ."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1dv23_QVB-7K40EPjH1rW87AEEhRBiVaI/view?usp=sharing", // Set to empty to hide the button
@@ -52,11 +52,11 @@ const skillsSection = {
   subTitle: "CREATIVELY SOLVE COMPLEX PROGRAMMING ISSUES SUCH AS",
   skills: [
     emoji(
-      "⚡ DEVLOPED A FULLY FUNCTIONAL JAVA TERMINAL IN MINECRAFT"
+      "⚡  Developed a fully functional Java terminal in Minecraft"
     ),
-    emoji("⚡ FULLY CREATED A 2D PLATFORMER GAME WITH A FULL TEAM"),
+    emoji("⚡ Created a 2D platformer game with a full team; utilizing Scrum methodologies"),
     emoji(
-      "⚡ CREATED A ONLINE MULTIPLAYER GAME UTILIZING NETWORKING CODE"
+      "⚡  Built an online multiplayer game using networking code"
     )
   ],
 
@@ -150,8 +150,9 @@ const workExperiences = {
       date: "August 2021 – May 2022",
       desc: "• I worked as an on-call student IT technician during my senior year of high school.",
       descBullets: [
-        "Helped with malfunctioning hardware and software around the building, organizing and answering tickets, and repairing faulty or destroyed hardware.",
-        " In lieu of payment, the school paid for my CompTIA IT course, leading to my IT fundamentals certification."
+        "Provided on-call IT support for hardware and software issues.",
+        "Managed ticketing systems and hardware repairs.",
+        "Earned my CompTIA IT Fundamentals certification (school-sponsored)."
       ]
     },
     {
@@ -181,7 +182,7 @@ const bigProjects = {
     {
       image: require("./assets/images/LearnToCode.png"),
       projectName: "LearnToCode Mod",
-      projectDesc: "A Modification to the game Minecraft, adding a full working terminal and lesson to learn to code",
+      projectDesc: "A Minecraft modification adding a fully functional terminal with lessons on how to code.",
       footerLink: [
         {
           name: "Visit Website",
@@ -192,8 +193,8 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/RedShift.png"),
-      projectName: "The Red SHift",
-      projectDesc: "Made A fully functional 2D-Simulator game while utilizing Scrum",
+      projectName: "The Red Shift",
+      projectDesc: "A 2D-simulator game developed with a team using Scrum.",
       footerLink: [
         {
           name: "Test Our Game",
@@ -217,7 +218,7 @@ const achievementSection = {
     {
       title: "Comptia IT Fundementals+ Certification",
       subtitle:
-        "Earned my certification in IT Fundementals+ in 2022.",
+        "Earned certification in IT Fundamentals+.",
       image: require("./assets/images/Cert.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
@@ -307,7 +308,7 @@ const resumeSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Open for Questions and Opportunities.",
+    "Open to questions and opportunities.",
   number: "+1-(303)-505-5098",
   email_address: "carsonwork1246@gmail.com"
 };
