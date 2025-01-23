@@ -162,6 +162,15 @@ const workExperiences = {
       date: "June 2023 – August 2023",
       desc: "I worked with my peers to keep camp software running efficiently and effectively, as well as assisting to teach camp students basic Java/Python code and object-oriented coding."
     },
+    
+    {
+      role: "Advanced Programmer AI Training",
+      company: "Outlier",
+      companylogo: require("./assets/images/Outlier.png"),
+      date: "October 2024 – Present",
+      desc: "I worked on analyzing AI output based on prompts given to it; making sure all the code it produced was correct and efficient, and the instructions given were precise and understandable. "
+    },
+
   ]
 };
 
