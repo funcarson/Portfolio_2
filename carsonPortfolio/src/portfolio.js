@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Computer Science graduate aiming to break into Software Development. I have experience building applications in Java, C, C++, Python, and more, using various IDEs such as Visual Studio, VS Code, and IntelliJ."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1dv23_QVB-7K40EPjH1rW87AEEhRBiVaI/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1DsndDySUiYz2C_yK_Ytw5uRMcV9U_sYJ/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -48,11 +48,11 @@ const skillsSection = {
   subTitle: "CREATIVELY SOLVE COMPLEX PROGRAMMING ISSUES SUCH AS",
   skills: [
     emoji(
-      "⚡  Developed a fully functional Java terminal in Minecraft"
+      "⚡  Co-Developed a free beginner course on Java programming; integrated fully into Minecraft "
     ),
-    emoji("⚡ Created a 2D platformer game with a full team; utilizing Scrum methodologies"),
+    emoji("⚡ Co-Created a 2D Simulation"),
     emoji(
-      "⚡  Built an online multiplayer game using networking code"
+      "⚡  Co-Creates an AI Powered Calnder with Canvas Integration"
     )
   ],
 
@@ -110,7 +110,7 @@ const educationInfo = {
       logo: require("./assets/images/UCCSLogo.png"),
       subHeader: "Bachelors in Computer Science",
       duration: "August 2022 - May 2025",
-      desc: "Participated in the creation of two long term agile based projects",
+      desc: "",
       descBullets: [
       ]
     },
@@ -124,7 +124,7 @@ const techStack = {
   experience: [
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "65%" //Insert relative proficiency in percentage
+      progressPercentage: "68%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Backend",
@@ -143,6 +143,32 @@ const techStack = {
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
+    
+    {
+      role: "Advanced Programmer AI Training",
+      company: "Outlier",
+      companylogo: require("./assets/images/Outlier.png"),
+      date: "October 2024 – Present",
+      desc: "I worked on analyzing AI output based on prompts given to it.",
+      descBullets: [
+        "Analyzed over 100 separate AI responses to various prompts ",
+        "Clearly documented all discrepancies of AI generated code in Python, Java, C++, and JavaScript ",
+        "Made final judgements on all AI generated outputs, including code and written responses/explanations "
+    ]
+    },
+
+    {
+      role: "IT Intern",
+      company: "Lavner Education",
+      companylogo: require("./assets/images/LavnerEducation.png"),
+      date: "June 2023 – August 2023",
+      desc: "I worked with my peers to keep camp software running efficiently and effectively.",
+      descBullets: [
+          "Taught 3 separate course on basic Python and Java code ",
+          "Troubleshooted/Fixed over 50 separate device malfunctions, including both software and hardware issues using Slack "
+      ]
+    },
+    
     {
       role: "Student IT Technician",
       company: "Chatfield Senior High School",
@@ -150,27 +176,10 @@ const workExperiences = {
       date: "August 2021 – May 2022",
       desc: "• I worked as an on-call student IT technician during my senior year of high school.",
       descBullets: [
-        "Provided on-call IT support for hardware and software issues.",
-        "Managed ticketing systems and hardware repairs.",
-        "Earned my CompTIA IT Fundamentals certification (school-sponsored)."
+        "Troubleshooted/Fixed over 100 different school-issued Chromebooks, iPads, and projectors ",
+        "Communicated with over 150 students and teachers both in person and on Jira "
       ]
     },
-    {
-      role: "IT Intern",
-      company: "Lavner Education",
-      companylogo: require("./assets/images/LavnerEducation.png"),
-      date: "June 2023 – August 2023",
-      desc: "I worked with my peers to keep camp software running efficiently and effectively, as well as assisting to teach camp students basic Java/Python code and object-oriented coding."
-    },
-    
-    {
-      role: "Advanced Programmer AI Training",
-      company: "Outlier",
-      companylogo: require("./assets/images/Outlier.png"),
-      date: "October 2024 – Present",
-      desc: "I worked on analyzing AI output based on prompts given to it; making sure all the code it produced was correct and efficient, and the instructions given were precise and understandable. "
-    },
-
   ]
 };
 
@@ -191,7 +200,7 @@ const bigProjects = {
     {
       image: require("./assets/images/LearnToCode.png"),
       projectName: "LearnToCode Mod",
-      projectDesc: "A Minecraft modification adding a fully functional terminal with lessons on how to code.",
+      projectDesc: "A Minecraft modification adding a fully functional terminal with lessons on how to code in java.",
       footerLink: [
         {
           name: "Visit Website",
@@ -200,17 +209,33 @@ const bigProjects = {
         //  you can add extra buttons here.
       ]
     },
+
+    {
+      image: require("./assets/images/Calendai.png"),
+      projectName: "Calendai",
+      projectDesc: "An AI powered Calendar with full Canvas Integration for assignment Managment.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://calendai.space"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+
     {
       image: require("./assets/images/RedShift.png"),
       projectName: "The Red Shift",
       projectDesc: "A 2D-simulator game developed with a team using Scrum.",
       footerLink: [
         {
-          name: "Test Our Game",
-          url: "https://drive.google.com/file/d/1ARNjNAo7op9yEgEenqyAyGvecBZ3dG0c/view?usp=sharing"
+          name: "Play Our Game",
+          url: "https://store.steampowered.com/app/3545140/The_Red_Shift/"
         }
       ]
-    }
+    },
+
+    
   ],
   display: true // Set false to hide this section, defaults to true
 };
