@@ -226,7 +226,7 @@ const bigProjects = {
     {
       image: require("./assets/images/RedShift.png"),
       projectName: "The Red Shift",
-      projectDesc: "Served as Lead Designer for a 2D-simulator game where you play as a bar-tender on Mars.",
+      projectDesc: "Served as Lead Designer for a 2D-simulator game where you play as a bartender on Mars.",
       footerLink: [
         {
           name: "Play Our Game",
