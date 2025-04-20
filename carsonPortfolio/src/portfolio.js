@@ -200,7 +200,7 @@ const bigProjects = {
     {
       image: require("./assets/images/LearnToCode.png"),
       projectName: "LearnToCode Mod",
-      projectDesc: "A Minecraft modification adding a fully functional terminal with lessons on how to code in java.",
+      projectDesc: "Served as Head Devloper for a Minecraft mod adding a fully functional terminal with lessons on how to code in java.",
       footerLink: [
         {
           name: "Visit Website",
@@ -213,7 +213,7 @@ const bigProjects = {
     {
       image: require("./assets/images/Calendai.png"),
       projectName: "Calendai",
-      projectDesc: "An AI powered Calendar with full Canvas Integration for assignment Managment.",
+      projectDesc: "Devloped an AI powered Calendar with full Canvas Integration for assignment managment.",
       footerLink: [
         {
           name: "Visit Website",
@@ -226,7 +226,7 @@ const bigProjects = {
     {
       image: require("./assets/images/RedShift.png"),
       projectName: "The Red Shift",
-      projectDesc: "A 2D-simulator game developed with a team using Scrum.",
+      projectDesc: "Served as Lead Designer for a 2D-simulator game where you play as a bar-tender on Mars.",
       footerLink: [
         {
           name: "Play Our Game",
