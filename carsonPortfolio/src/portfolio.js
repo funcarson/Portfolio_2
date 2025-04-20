@@ -148,7 +148,7 @@ const workExperiences = {
       role: "Advanced Programmer AI Training",
       company: "Outlier",
       companylogo: require("./assets/images/Outlier.png"),
-      date: "October 2024 – Present",
+      date: "October 2024 – February 2025",
       desc: "I worked on analyzing AI output based on prompts given to it.",
       descBullets: [
         "Analyzed over 100 separate AI responses to various prompts ",
