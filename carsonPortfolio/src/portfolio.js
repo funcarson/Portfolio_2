@@ -265,24 +265,24 @@ const seriousGamesSection = {
       alt: "Diagram illustrating serious games components"
     },
     learningsImg: {
-      src: require("./assets/images/Learnings.png"),
+      src: require("./assets/images/Definition.png"),
       alt: "User testing session photo"
     },
     classWorkImg: {
-      src: require("./assets/images/Classwork.png"),
+      src: require("./assets/images/Definition.png"),
       alt: "Screenshot of prototype matching game"
     }
   },
 
   // 5. Larger project demo
   projectDemo: {
-    media: "./assets/videos/marsRoverDemo.gif", // or .mp4
+    media: "./assets/images/Definition.png", // or .mp4
     caption: "Mars Rover Simulation—resource collection demo"
   },
 
   // 6. Voiceover file explaining the demo
   voiceover: {
-    src: require("./assets/audio/seriousGames_demo_voiceover.mp3"),
+    src: require("./assets/images/Definition.png"),
     alt: "Audio narration of the Mars Rover demo"
   },
 
