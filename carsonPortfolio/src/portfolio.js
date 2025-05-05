@@ -241,55 +241,6 @@ const bigProjects = {
 };
 
 
-// ==================== Serious Games Section ====================
-const seriousGamesSection = {
-  display: true, // toggle to show/hide
-  title: "Serious Games",
-
-  // 1. Definition
-  definition: "Serious Games are games with the intended purpose to teach skills a person can use in the real world.",
-
-  // 2. New learnings (things you didn’t know at semester start)
-  learnings: [
-    "Trying to build a game thats both fun and educational is a serious challenge, as you awlays lean one way or the other.",
-    "Serious games are starting to be used everywhere for jobs, including Military, Health Care, Retail, and more! "
-  ],
-
-  // 3. One-paragraph summary of your class work
-  classWork: "In this class we started off with a simple premice of building a mars rover simulation, with simulated heat and battery life with the goal of finding life. What I did was create a simple pygame with a rover who aimlessly roams around automatically, trying to find life while avoiding hot and cold spots. Then we were tasked with building a game which could be uses in a Space museum. What I ended up doing was make a rover builder simulator, where the user is tasked from nasa to take pictures of various landmarks on Mars. The player builds their rover, looks for as many hotspots as they can, take photos, then when the time runs out they turn in their photos for more funding to build a a better rover, and this repeats until they've found all the hotspots.",
-
-  // 4. Images for each of the above
-  images: {
-    definitionImg: {
-      src: require("./assets/images/Definition.png"),
-      alt: "Diagram illustrating serious games components"
-    },
-    learningsImg: {
-      src: require("./assets/images/Definition.png"),
-      alt: "User testing session photo"
-    },
-    classWorkImg: {
-      src: require("./assets/images/Definition.png"),
-      alt: "Screenshot of prototype matching game"
-    }
-  },
-
-  // 5. Larger project demo
-  projectDemo: {
-    media: "./assets/images/Definition.png", // or .mp4
-    caption: "Mars Rover Simulation—resource collection demo"
-  },
-
-  // 6. Voiceover file explaining the demo
-  voiceover: {
-    src: require("./assets/images/Definition.png"),
-    alt: "Audio narration of the Mars Rover demo"
-  },
-
-  // 7. Future Predictions
-  futurePrediction: "I believe serious games will be full integrated with VR, utilizing it from on the job training, to military simulations. This will allow for more realstics and smarter training simulations, better preparing people for the workforce and the battlefield. "
-};
-
 // Achievement Section
 // Include certificates, talks etc
 
