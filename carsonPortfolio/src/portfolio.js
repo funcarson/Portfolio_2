@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Computer Science graduate aiming to break into Software Development. I have experience building applications in Java, C, C++, Python, and more, using various IDEs such as Visual Studio, VS Code, and IntelliJ."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1BKVLOndpsNVC85g123zrqJdgsrJlM5xK/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1vjHlZBHhaijtKl0vqiYmbbsbA8sXIX_w/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -360,7 +360,6 @@ export {
   workExperiences,
   openSource,
   bigProjects,
-  seriousGamesSection,
   achievementSection,
   blogSection,
   talkSection,
