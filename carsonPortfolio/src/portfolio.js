@@ -216,8 +216,8 @@ const bigProjects = {
       projectDesc: "Devloped an AI powered Calendar with full Canvas Integration for assignment managment.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "https://calendai.space"
+          name: "",
+          url: ""
         }
         //  you can add extra buttons here.
       ]
