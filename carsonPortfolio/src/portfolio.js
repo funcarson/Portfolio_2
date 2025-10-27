@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Computer Science graduate aiming to break into Software Development. I have experience building applications in Java, C, C++, Python, and more, using various IDEs such as Visual Studio, VS Code, and IntelliJ."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/14B4x8e5915curdi6HdmzbLZO0zLoqH7l/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1qWQM6lfc6320huE7LSiY-W6sEuDm7B9s/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -154,6 +154,23 @@ const workExperiences = {
         "Analyzed over 100 separate AI responses to various prompts ",
         "Clearly documented all discrepancies of AI generated code in Python, Java, C++, and JavaScript ",
         "Made final judgements on all AI generated outputs, including code and written responses/explanations "
+    ]
+    },
+
+        {
+      role: "IT Operations Specialist",
+      company: "Vantor",
+      companylogo: require("./assets/images/Vantor.png"),
+      date: "July 2025 – Present",
+      desc: "I worked with my team to keep company software running efficiently and effectively.",
+      descBullets: [
+        "Resolved 300+ monthly IT support tickets for hundreds of users at both Maxar intelligence/Vantor and Maxar space/Lanteris, addressing complex software and hardware issues while maintaining high customer satisfaction",
+        "Administered Active Directory for user account management and automated software deployment",
+        "Diagnosed and resolved firmware/driver compatibility issues across diverse peripherals (headphones, docking stations, monitors, printers)",
+        "Created and managed distribution lists and dynamic distribution lists via Exchange Admin Center",
+        "Administered SharePoint sites and permissions through Microsoft 365 Admin Center",
+        "Consistently ranked in top 2 performers for ticket resolution volume following completion of all required training",
+        "Independently developing a comprehensive documentation review tracker using C#, .NET, AWS, Blazor, and Terraform to streamline IT team document review processes and automate SharePoint uploads, while maintaining full IT support responsibilities"
     ]
     },
 
