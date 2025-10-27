@@ -51,6 +51,7 @@ const skillsSection = {
       "⚡  Co-Developed a free beginner course on Java programming; integrated fully into Minecraft "
     ),
     emoji("⚡ Co-Created a 2D Simulation"),
+    emoji("⚡ Working on a Documentation Review Tracker using C#, .NET, AWS, Blazor, and Terraform for internal company use"),
     emoji(
       "⚡  Co-Creates an AI Powered Calnder with Canvas Integration"
     )
@@ -166,9 +167,6 @@ const workExperiences = {
       descBullets: [
         "Resolved 300+ monthly IT support tickets for hundreds of users at both Maxar intelligence/Vantor and Maxar space/Lanteris, addressing complex software and hardware issues while maintaining high customer satisfaction",
         "Administered Active Directory for user account management and automated software deployment",
-        "Diagnosed and resolved firmware/driver compatibility issues across diverse peripherals (headphones, docking stations, monitors, printers)",
-        "Created and managed distribution lists and dynamic distribution lists via Exchange Admin Center",
-        "Administered SharePoint sites and permissions through Microsoft 365 Admin Center",
         "Consistently ranked in top 2 performers for ticket resolution volume following completion of all required training",
         "Independently developing a comprehensive documentation review tracker using C#, .NET, AWS, Blazor, and Terraform to streamline IT team document review processes and automate SharePoint uploads, while maintaining full IT support responsibilities"
     ]
